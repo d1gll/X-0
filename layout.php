@@ -11,6 +11,8 @@
         <script src="//code.jquery.com/jquery-latest.js"></script>
         <script src="js/ajax_reg.js"></script>
         <script src="js/ajax_login.js"></script>
+        <script type="text/javascript" src="js/script.js"></script>
+        
     </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-center">
