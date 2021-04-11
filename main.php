@@ -27,7 +27,6 @@ $file=str_replace('{title}',$title,$file);
         <div class="cell" id="8" onclick="move(8)"></div>
     </div>
 
-    <script type="text/javascript" src="js/script.js"></script>
     <div class="restart" onclick="location.reload()">
         <p>Начать заново</p>
     </div>
